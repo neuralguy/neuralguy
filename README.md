@@ -6,27 +6,25 @@
 
 📍 **Тверь, Россия** | 👨‍💻 **19 лет** | ⏱️ **5 лет в программировании**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-https://img.shields.io/badge/Email-D14836?style=for-the-badgettps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor 🚀 О себе
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-(https://img.shields.io/badge/Email-D14836?style=for-the-badgettps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white себе
 
 Разрабатываю **высокопроизводительные backend-решения** на FastAPI, создаю **интеллектуальных Telegram-ботов** и работаю с **машинным обучением**. Увлечен автоматизацией процессов и построением масштабируемых систем.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Евгений"
-        self.location = "Тверь, Россия"
-        self.experience_years = 5
-        self.specialization = ["Backend", "Telegram Bots", "Data Science"]
-    
-    def get_stack(self):
-        return {
-            "languages": ["Python"],
-            "frameworks": ["FastAPI", "aiogram", "LangChain"],
-            "ml": ["PyTorch", "Scikit-learn", "Keras"],
-            "databases": ["PostgreSQL", "Redis", "MongoDB"],
-            "tools": ["Docker", "Git", "Nginx", "uv", "pytest"],
-            "logging": ["loguru"]
-        }
+```class Developer:
+  def __init__(self):
+    self.name = "Евгений"
+    self.location = "Тверь, Россия"
+    self.experience_years = 5
+    self.specialization = ["Backend", "Telegram Bots", "Data Science"]
+  
+  def get_stack(self):
+      return {
+          "languages": ["Python"],
+          "frameworks": ["FastAPI", "aiogram", "LangChain"],
+          "ml": ["PyTorch", "Scikit-learn", "Keras"],
+          "databases": ["PostgreSQL", "Redis", "MongoDB"],
+          "tools": ["Docker", "Git", "Nginx", "uv", "pytest", "loguru"]
+      }
 ```
 
 ***
@@ -48,7 +46,6 @@ class Developer:
 ### 📊 Data Science & ML
 - 📈 Обработка и анализ данных с **Pandas**, **NumPy**
 - 🤖 Построение и валидация ML-моделей (**PyTorch**, **Scikit-learn**, **Keras**)
-- 🦜 Разработка LLM-приложений с **LangChain**
 - 📉 Визуализация данных (Matplotlib, Seaborn, Plotly)
 - 🧪 Feature engineering и экспериментирование с моделями
 
@@ -59,13 +56,7 @@ class Developer:
 <div align="center">
 
 ### Языки и фреймворки
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorhttps://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&shields.io/badge/🦜_LangChain-1
-
-
-
-
-
-### Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for.io/badge/FastAPI-009688?style=for-theio/badge/aiogram-2CA5E0?style=for-shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain Science & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor/badge/Pandas-150458?style=for-the-badgehttps://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColorы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor://img.shields.io/badge/Redis-DC382D?style
 
@@ -74,12 +65,7 @@ class Developer:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor://img.shields.io/badge/Git-F05032?style
 
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions/badge/Linux-FCC624?style=for-the-badge
-
-
-
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColorhttps://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=ast.io/badge/pytest-0A9EDC?style=for
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackshields.io/badge/Nginx-009639?style=for-/badge/pytest-0A9EDC?style=for.io/badge/uv-DE5FE9?style=for-the-badge
 
 
 
@@ -87,7 +73,7 @@ class Developer:
 
 
 
-![Loguru](https://img.shields.io/badge/Loguru-4B8BBE?style=for-
+![Loguru](https://img.shields.io/badge/Loguru-0C1E3E?style=for-the-badge
 
 
 
@@ -104,12 +90,16 @@ class Developer:
 ## 📊 GitHub Статистика
 
 <div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neuralguy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralguy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuralguy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ***
@@ -130,14 +120,10 @@ class Developer:
 
 **Открыт для интересных проектов и коммерческих предложений**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@neuralguy-2CA5E0?style=for(https://img.shields.io/badge/Email-neuralguyy@gmail.com-D14836?style=for-the-badge&logo=gmaille Views](https://komarev.com/ghpvc/?username=neuralguy&color=blueviolet&style=flat-square&
-
-
-
-</div>
-
-***
+[![Telegram](https://img.shields.io/badge/Telegram-@neuralguy-2CA5E0?style=for-the-badge&logo=telegram(https://img.shields.io/badge/Email-neuralguyy@gmail.com-D14836?style=for-the-badge&logo=gmaille Views](https://komarev.com/ghpvc/?username=neuralguy&color=blueviolet&style=flat-square&label=
 
 <div align="center">
+  
   <i>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  
 </div>
