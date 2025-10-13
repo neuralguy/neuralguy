@@ -2,7 +2,7 @@
 
 # 👋 Привет, я Евгений!
 
-### 💻 Python Developer | 🤖 Telegram Bots Expert | 📊 Data Science Enthusiast
+### 💻 FastAPI Developer | 🤖 Telegram Bots Expert | 📊 Data Science Enthusiast
 
 📍 **Тверь, Россия** | 👨‍💻 **19 лет** | ⏱️ **5 лет в программировании**
 
