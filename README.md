@@ -25,15 +25,6 @@ class Developer:
     self.location = "Тверь, Россия"
     self.experience_years = 5
     self.specialization = ["Backend", "Telegram Bots", "Data Science"]
-
-  def get_stack(self):
-      return {
-          "languages": ["Python"],
-          "frameworks": ["FastAPI", "aiogram"],
-          "ml": ["PyTorch", "Scikit-learn", "Keras"],
-          "databases": ["PostgreSQL", "Redis", "MongoDB"],
-          "tools": ["Docker", "Git", "Nginx"]
-      }
 ```
 
 
