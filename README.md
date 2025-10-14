@@ -20,7 +20,7 @@
 
 ```
 class Developer:
-  def init(self):
+  def __init__(self):
     self.name = "Евгений"
     self.location = "Тверь, Россия"
     self.experience_years = 5
